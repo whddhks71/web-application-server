@@ -37,6 +37,6 @@
 
 ### 요구사항 6 - stylesheet 적용
 * CSS REQUEST : Content-Type : text/css
-
+stringValue().endsWith("string***");
 ### heroku 서버에 배포 후
 * 
