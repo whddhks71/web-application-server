@@ -33,10 +33,10 @@
 * 리다이렉트 : 지정한 LOCATION 경로로 서버에 재요청 
 
 ### 요구사항 5 - cookie
-* 
+* session 
 
 ### 요구사항 6 - stylesheet 적용
-* 
+* CSS REQUEST : Content-Type : text/css
 
 ### heroku 서버에 배포 후
 * 
